@@ -6,5 +6,3 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = /* html */ `
     <h1>Namespaces</h1>
   </div>
 `;
-
-console.log(Validations.validateText("Lalo"));
